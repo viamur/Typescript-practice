@@ -200,7 +200,7 @@
 // };
 
 // const person: CustomType = {
-//   name: 'don',
+//   name: 'on',
 // };
 
 // person.sex = 'man';
