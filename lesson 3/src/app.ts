@@ -1,7 +1,10 @@
-let a: number;
+let a: string[];
 
-a = 4;
+a = ['a', 'b', 'c'];
 
 function b(c: string): void {
+  a.map(el => console.log(el));
   console.log(c);
 }
+
+b('fff');
